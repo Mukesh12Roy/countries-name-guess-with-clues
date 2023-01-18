@@ -88,4 +88,4 @@ elif (points) >= 9:
 else:
     print("Try Again after learning more about countries ")
 
-print("GAME OVER")
+print("GAME OVER ('_')")
